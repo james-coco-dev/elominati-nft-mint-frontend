@@ -1,0 +1,26 @@
+{
+  "name": "SeaInuNFT#1763",
+  "imageUrl": "https://gateway.pinata.cloud/ipfs/QmPYYS32QPS8bpxZsMugsrfCzEJgA2hXucfhWVCPUF3oz1/WALRUS/Unique/180.jpg",
+  "attributes": [
+    {
+      "trait_type": "kind",
+      "value": "WALRUS"
+    },
+    {
+      "trait_type": "type",
+      "value": "Unique"
+    },
+    {
+      "trait_type": "speed",
+      "value": 6
+    },
+    {
+      "trait_type": "strength",
+      "value": 57
+    },
+    {
+      "trait_type": "weight",
+      "value": 18
+    }
+  ]
+}

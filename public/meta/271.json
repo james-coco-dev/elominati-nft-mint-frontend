@@ -1,0 +1,26 @@
+{
+  "name": "SeaInuNFT#1371",
+  "imageUrl": "https://gateway.pinata.cloud/ipfs/QmPYYS32QPS8bpxZsMugsrfCzEJgA2hXucfhWVCPUF3oz1/SEA OTTER/common/271.jpg",
+  "attributes": [
+    {
+      "trait_type": "kind",
+      "value": "SEA OTTER"
+    },
+    {
+      "trait_type": "type",
+      "value": "common"
+    },
+    {
+      "trait_type": "speed",
+      "value": 4
+    },
+    {
+      "trait_type": "strength",
+      "value": 78
+    },
+    {
+      "trait_type": "weight",
+      "value": 3
+    }
+  ]
+}

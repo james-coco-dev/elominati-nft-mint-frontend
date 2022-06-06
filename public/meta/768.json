@@ -1,0 +1,26 @@
+{
+  "name": "SeaInuNFT#440",
+  "imageUrl": "https://gateway.pinata.cloud/ipfs/QmPYYS32QPS8bpxZsMugsrfCzEJgA2hXucfhWVCPUF3oz1/MANATEE/common/42.jpg",
+  "attributes": [
+    {
+      "trait_type": "kind",
+      "value": "MANATEE"
+    },
+    {
+      "trait_type": "type",
+      "value": "common"
+    },
+    {
+      "trait_type": "speed",
+      "value": 8
+    },
+    {
+      "trait_type": "strength",
+      "value": 82
+    },
+    {
+      "trait_type": "weight",
+      "value": 13
+    }
+  ]
+}

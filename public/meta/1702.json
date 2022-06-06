@@ -1,0 +1,26 @@
+{
+  "name": "SeaInuNFT#57",
+  "imageUrl": "https://gateway.pinata.cloud/ipfs/QmPYYS32QPS8bpxZsMugsrfCzEJgA2hXucfhWVCPUF3oz1/DOLPHIN/common/299.jpg",
+  "attributes": [
+    {
+      "trait_type": "kind",
+      "value": "DOLPHIN"
+    },
+    {
+      "trait_type": "type",
+      "value": "common"
+    },
+    {
+      "trait_type": "speed",
+      "value": 10
+    },
+    {
+      "trait_type": "strength",
+      "value": 69
+    },
+    {
+      "trait_type": "weight",
+      "value": 3
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "SeaInuNFT#1008",
+  "imageUrl": "https://gateway.pinata.cloud/ipfs/QmPYYS32QPS8bpxZsMugsrfCzEJgA2hXucfhWVCPUF3oz1/ORCA/rare/227.jpg",
+  "attributes": [
+    {
+      "trait_type": "kind",
+      "value": "ORCA"
+    },
+    {
+      "trait_type": "type",
+      "value": "rare"
+    },
+    {
+      "trait_type": "speed",
+      "value": 5
+    },
+    {
+      "trait_type": "strength",
+      "value": 16
+    },
+    {
+      "trait_type": "weight",
+      "value": 1
+    }
+  ]
+}

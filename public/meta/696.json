@@ -1,0 +1,26 @@
+{
+  "name": "SeaInuNFT#237",
+  "imageUrl": "https://gateway.pinata.cloud/ipfs/QmPYYS32QPS8bpxZsMugsrfCzEJgA2hXucfhWVCPUF3oz1/ELEPHANT SEAL/common/174.jpg",
+  "attributes": [
+    {
+      "trait_type": "kind",
+      "value": "ELEPHANT SEAL"
+    },
+    {
+      "trait_type": "type",
+      "value": "common"
+    },
+    {
+      "trait_type": "speed",
+      "value": 6
+    },
+    {
+      "trait_type": "strength",
+      "value": 14
+    },
+    {
+      "trait_type": "weight",
+      "value": 15
+    }
+  ]
+}

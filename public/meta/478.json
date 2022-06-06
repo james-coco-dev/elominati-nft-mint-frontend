@@ -1,0 +1,26 @@
+{
+  "name": "SeaInuNFT#1801",
+  "imageUrl": "https://gateway.pinata.cloud/ipfs/QmPYYS32QPS8bpxZsMugsrfCzEJgA2hXucfhWVCPUF3oz1/WHALE/unique/232.jpg",
+  "attributes": [
+    {
+      "trait_type": "kind",
+      "value": "WHALE"
+    },
+    {
+      "trait_type": "type",
+      "value": "unique"
+    },
+    {
+      "trait_type": "speed",
+      "value": 7
+    },
+    {
+      "trait_type": "strength",
+      "value": 59
+    },
+    {
+      "trait_type": "weight",
+      "value": 15
+    }
+  ]
+}

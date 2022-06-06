@@ -1,0 +1,26 @@
+{
+  "name": "SeaInuNFT#408",
+  "imageUrl": "https://gateway.pinata.cloud/ipfs/QmPYYS32QPS8bpxZsMugsrfCzEJgA2hXucfhWVCPUF3oz1/ELEPHANT SEAL/unique/398.jpg",
+  "attributes": [
+    {
+      "trait_type": "kind",
+      "value": "ELEPHANT SEAL"
+    },
+    {
+      "trait_type": "type",
+      "value": "unique"
+    },
+    {
+      "trait_type": "speed",
+      "value": 1
+    },
+    {
+      "trait_type": "strength",
+      "value": 11
+    },
+    {
+      "trait_type": "weight",
+      "value": 10
+    }
+  ]
+}

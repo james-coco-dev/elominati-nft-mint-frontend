@@ -1,0 +1,26 @@
+{
+  "name": "SeaInuNFT#1202",
+  "imageUrl": "https://gateway.pinata.cloud/ipfs/QmPYYS32QPS8bpxZsMugsrfCzEJgA2hXucfhWVCPUF3oz1/SEA LION/common/286.jpg",
+  "attributes": [
+    {
+      "trait_type": "kind",
+      "value": "SEA LION"
+    },
+    {
+      "trait_type": "type",
+      "value": "common"
+    },
+    {
+      "trait_type": "speed",
+      "value": 1
+    },
+    {
+      "trait_type": "strength",
+      "value": 76
+    },
+    {
+      "trait_type": "weight",
+      "value": 2
+    }
+  ]
+}

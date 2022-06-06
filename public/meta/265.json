@@ -1,0 +1,26 @@
+{
+  "name": "SeaInuNFT#857",
+  "imageUrl": "https://gateway.pinata.cloud/ipfs/QmPYYS32QPS8bpxZsMugsrfCzEJgA2hXucfhWVCPUF3oz1/NARWHAL/unique/239.jpg",
+  "attributes": [
+    {
+      "trait_type": "kind",
+      "value": "NARWHAL"
+    },
+    {
+      "trait_type": "type",
+      "value": "unique"
+    },
+    {
+      "trait_type": "speed",
+      "value": 6
+    },
+    {
+      "trait_type": "strength",
+      "value": 15
+    },
+    {
+      "trait_type": "weight",
+      "value": 2
+    }
+  ]
+}
